@@ -1,0 +1,12 @@
+Flask app to be used for inference purpose with pre-trained model
+
+Use html for creating input form accesible from web-browser
+
+1. How to run:
+	python app.py
+
+2. Paste http://127.0.0.1:5000/ in your web-browser
+
+3. Select inputs from drop down menu and press submit to get predicted score for selected inputs
+
+
